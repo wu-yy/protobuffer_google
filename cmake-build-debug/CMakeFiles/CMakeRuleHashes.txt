@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b954f71bfd8274a397fa2f62c8c964c8 addressbook.pb.cc

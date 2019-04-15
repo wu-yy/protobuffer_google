@@ -1,0 +1,4 @@
+/Users/wuyongyu/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuyongyu/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuyongyu/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/protobuf.dir
+/Users/wuyongyu/CLionProjects/protobuf/cmake-build-debug/CMakeFiles/proto2.dir
