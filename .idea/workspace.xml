@@ -33,7 +33,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cpp" value="247" />
-          <entry key="md" value="155" />
+          <entry key="md" value="195" />
           <entry key="proto" value="1" />
           <entry key="txt" value="35" />
         </counts>
@@ -42,7 +42,7 @@
         <counts>
           <entry key="CMakeLists.txt" value="35" />
           <entry key="ObjectiveC" value="247" />
-          <entry key="PLAIN_TEXT" value="156" />
+          <entry key="PLAIN_TEXT" value="196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -110,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="114">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -224,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555337051057</updated>
-      <workItem from="1555337052648" duration="3519000" />
+      <workItem from="1555337052648" duration="3596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3519000" />
+    <option name="totallyTimeSpent" value="3596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="429" y="65" width="1577" height="947" extended-state="0" />
@@ -313,8 +313,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="114">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
