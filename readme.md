@@ -1,13 +1,15 @@
 # sample of protocol buffers of Google
 
-[protobuf](https://developers.google.com/protocol-buffers/docs/cpptutorial)
+[protobuf官方文档](https://developers.google.com/protocol-buffers/docs/cpptutorial)
 
 首先 定义 .proto 文件
 
 # 编译.proto
 
 '''
+
 protoc -I=$SRC_DIR --cpp_out=$DST_DIR $SRC_DIR/addressbook.proto
+
 
 '''
 
